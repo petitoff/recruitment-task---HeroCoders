@@ -1,0 +1,3 @@
+Component: Backend, Issues Count: 65
+Component: Synchronization, Issues Count: 12
+Component: Templates, Issues Count: 25
